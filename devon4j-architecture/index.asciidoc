@@ -83,7 +83,7 @@ For example, in jtqj-api->queuemangement->dataaccess->core contains entities, sp
 
 [step]
 --
-nextKatacodaSStep("Understand devon4j application architecture", [{ "file": "devon4j-app-arch.md" }])
+nextKatacodaShitStep("Understand devon4j application architecture", [{ "file": "devon4j-app-arch.md" }])
 --
 
 ====
