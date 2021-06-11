@@ -13,7 +13,7 @@ More information about CobiGen on https://devonfw.com/website/pages/docs/master-
 
 [step]
 --
-restoreDevonfwIde(["java","mvn"])
+estoreDevonfwIde(["java","mvn"])
 --
 To begin you need to install CobiGen and create a Java Project.
 [step]
